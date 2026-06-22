@@ -1,0 +1,23 @@
+[
+  { "name": "Defender Classic (L316)", "years": "1983–2016" },
+  { "name": "Defender (L663)", "years": "2020–2026" },
+  { "name": "Discovery Series I", "years": "1989–1998" },
+  { "name": "Discovery Series II (L318)", "years": "1998–2004" },
+  { "name": "Discovery 3 / LR3 (L319)", "years": "2004–2009" },
+  { "name": "Discovery 4 / LR4 (L319)", "years": "2009–2016" },
+  { "name": "Discovery 5 (L462)", "years": "2017–2026" },
+  { "name": "Discovery Sport (L550)", "years": "2014–2026" },
+  { "name": "Freelander 1st Gen (L314)", "years": "1997–2006" },
+  { "name": "Freelander 2nd Gen / LR2 (L359)", "years": "2006–2015" },
+  { "name": "Range Rover Classic", "years": "1970–1996" },
+  { "name": "Range Rover 2nd Gen (P38A)", "years": "1994–2002" },
+  { "name": "Range Rover 3rd Gen (L322)", "years": "2002–2012" },
+  { "name": "Range Rover 4th Gen (L405)", "years": "2012–2021" },
+  { "name": "Range Rover 5th Gen (L460)", "years": "2021–2026" },
+  { "name": "Range Rover Evoque 1st Gen (L538)", "years": "2011–2018" },
+  { "name": "Range Rover Evoque 2nd Gen (L551)", "years": "2018–2026" },
+  { "name": "Range Rover Sport 1st Gen (L320)", "years": "2005–2013" },
+  { "name": "Range Rover Sport 2nd Gen (L494)", "years": "2013–2022" },
+  { "name": "Range Rover Sport 3rd Gen (L461)", "years": "2022–2026" },
+  { "name": "Range Rover Velar (L560)", "years": "2017–2026" }
+]
