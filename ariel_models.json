@@ -1,0 +1,12 @@
+[
+  { "name": "Atom (Gen 1)", "gen": "1ST", "years": "2000–2002" },
+  { "name": "Atom (Gen 2)", "gen": "2ND", "years": "2003–2007" },
+  { "name": "Atom (Gen 3)", "gen": "3RD", "years": "2007–2013" },
+  { "name": "Atom (Gen 3.5)", "gen": "3.5TH", "years": "2014–2018" },
+  { "name": "Atom (Gen 4)", "gen": "4TH", "years": "2019–2026" },
+  { "name": "Atom 4R / 4RR", "gen": "4TH (EVO)", "years": "2025–2026" },
+  { "name": "Ace (Motorcycle)", "gen": "1ST", "years": "2014–2026" },
+  { "name": "Hipercar", "gen": "1ST", "years": "2024–2026" },
+  { "name": "Nomad (Original)", "gen": "1ST", "years": "2015–2025" },
+  { "name": "Nomad 2", "gen": "2ND", "years": "2025–2026" }
+]

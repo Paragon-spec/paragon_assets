@@ -1,0 +1,12 @@
+[
+  { "name": "DS 3", "gen": "1ST", "years": "2009–2016" },
+  { "name": "DS 3 Crossback", "gen": "2ND", "years": "2018–2023" },
+  { "name": "DS 3", "gen": "3RD", "years": "2023–2026" },
+  { "name": "DS 4", "gen": "1ST", "years": "2010–2018" },
+  { "name": "DS 4", "gen": "2ND", "years": "2021–2026" },
+  { "name": "DS 5", "gen": "1ST", "years": "2011–2018" },
+  { "name": "DS 7 Crossback", "gen": "1ST", "years": "2017–2022" },
+  { "name": "DS 7", "gen": "2ND", "years": "2022–2026" },
+  { "name": "DS 9", "gen": "1ST", "years": "2020–2026" },
+  { "name": "DS N°8", "gen": "1ST", "years": "2025–2026" }
+]

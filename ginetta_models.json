@@ -1,0 +1,20 @@
+[
+  { "name": "G4", "gen": "1ST–4TH", "years": "1961–1984" },
+  { "name": "G10/G11", "gen": "1ST", "years": "1965–1967" },
+  { "name": "G12", "gen": "1ST", "years": "1966–1968" },
+  { "name": "G15", "gen": "1ST–5TH", "years": "1968–1974" },
+  { "name": "G20", "gen": "1ST", "years": "1983–1984" },
+  { "name": "G20 (Track)", "gen": "2ND", "years": "2001–2010" },
+  { "name": "G21", "gen": "1ST", "years": "1970–1978" },
+  { "name": "G27", "gen": "1ST–4TH", "years": "1985–2000" },
+  { "name": "G32", "gen": "1ST", "years": "1989–1992" },
+  { "name": "G33", "gen": "1ST", "years": "1991–1998" },
+  { "name": "G40", "gen": "1ST", "years": "2010–2026" },
+  { "name": "G50", "gen": "1ST", "years": "2008–2026" },
+  { "name": "G55", "gen": "1ST", "years": "2011–2026" },
+  { "name": "G56", "gen": "1ST", "years": "2021–2026" },
+  { "name": "G57/G58", "gen": "1ST", "years": "2016–2026" },
+  { "name": "G60", "gen": "1ST", "years": "2012–2026" },
+  { "name": "Akula", "gen": "1ST", "years": "2024–2026" },
+  { "name": "GT2", "gen": "1ST", "years": "2026–2026" }
+]

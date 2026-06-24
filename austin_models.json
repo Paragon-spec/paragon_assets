@@ -1,0 +1,21 @@
+[
+  { "name": "7", "gen": "1ST", "years": "1922–1939" },
+  { "name": "8", "gen": "1ST", "years": "1939–1947" },
+  { "name": "10", "gen": "1ST", "years": "1932–1947" },
+  { "name": "12", "gen": "1ST", "years": "1921–1939" },
+  { "name": "A30 / A35", "gen": "1ST", "years": "1951–1959" },
+  { "name": "A40 Somerset", "gen": "1ST", "years": "1952–1954" },
+  { "name": "A40 Cambridge", "gen": "2ND", "years": "1954–1956" },
+  { "name": "A40 Farina", "gen": "3RD", "years": "1958–1967" },
+  { "name": "A55 / A60 Cambridge", "gen": "1ST", "years": "1957–1969" },
+  { "name": "A90 Atlantic", "gen": "1ST", "years": "1948–1952" },
+  { "name": "A99 / A110 Westminster", "gen": "1ST", "years": "1959–1968" },
+  { "name": "Mini", "gen": "1ST", "years": "1959–2000" },
+  { "name": "1100 / 1300 (ADO16)", "gen": "1ST", "years": "1963–1974" },
+  { "name": "1800 (ADO17)", "gen": "1ST", "years": "1964–1975" },
+  { "name": "Maxi", "gen": "1ST", "years": "1969–1981" },
+  { "name": "Allegro", "gen": "1ST", "years": "1973–1982" },
+  { "name": "Metro", "gen": "1ST", "years": "1980–1990" },
+  { "name": "Maestro", "gen": "1ST", "years": "1983–1994" },
+  { "name": "Montego", "gen": "1ST", "years": "1984–1994" }
+]

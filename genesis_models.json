@@ -1,0 +1,13 @@
+[
+  { "name": "G90", "gen": "1ST", "years": "2017–2020" },
+  { "name": "G90", "gen": "2ND", "years": "2021–2026" },
+  { "name": "G80", "gen": "1ST", "years": "2017–2020" },
+  { "name": "G80", "gen": "2ND", "years": "2021–2026" },
+  { "name": "G70", "gen": "1ST", "years": "2018–2023" },
+  { "name": "G70", "gen": "2ND", "years": "2024–2026" },
+  { "name": "GV80", "gen": "1ST", "years": "2021–2026" },
+  { "name": "GV70", "gen": "1ST", "years": "2022–2026" },
+  { "name": "GV60", "gen": "1ST", "years": "2023–2026" },
+  { "name": "Electrified G80", "gen": "1ST", "years": "2023–2026" },
+  { "name": "Electrified GV70", "gen": "1ST", "years": "2023–2026" }
+]
