@@ -1,0 +1,23 @@
+[
+  { "name": "Viper Venom 500", "gen": "1ST", "years": "1993–1996" },
+  { "name": "Viper Venom 600", "gen": "1ST", "years": "1997–2002" },
+  { "name": "Viper Venom 1000 Twin Turbo", "gen": "1ST", "years": "2003–2010" },
+  { "name": "Venom GT", "gen": "1ST", "years": "2011–2017" },
+  { "name": "Venom F5", "gen": "1ST", "years": "2020–2026" },
+  { "name": "Velociraptor 600 (F-150)", "gen": "1ST", "years": "2011–2014" },
+  { "name": "Velociraptor 600 (F-150)", "gen": "2ND", "years": "2015–2020" },
+  { "name": "Velociraptor 600 (F-150)", "gen": "3RD", "years": "2021–2026" },
+  { "name": "Velociraptor 6x6 (F-150)", "gen": "1ST", "years": "2017–2020" },
+  { "name": "Velociraptor 6x6 (F-150)", "gen": "2ND", "years": "2021–2026" },
+  { "name": "Velociraptor 500 (Ranger)", "gen": "1ST", "years": "2019–2023" },
+  { "name": "Velociraptor 500 (Ranger)", "gen": "2ND", "years": "2024–2026" },
+  { "name": "Velociraptor 400 (Bronco)", "gen": "1ST", "years": "2021–2026" },
+  { "name": "Mammoth 1000 (RAM TRX)", "gen": "1ST", "years": "2021–2024" },
+  { "name": "Mammoth 6x6 (RAM TRX)", "gen": "1ST", "years": "2021–2024" },
+  { "name": "Goliath 6x6 (Silverado)", "gen": "1ST", "years": "2019–2022" },
+  { "name": "HPE700 (Mustang)", "gen": "1ST", "years": "2015–2017" },
+  { "name": "HPE800 (Mustang)", "gen": "1ST", "years": "2018–2023" },
+  { "name": "HPE1000 (Camaro ZL1)", "gen": "1ST", "years": "2017–2023" },
+  { "name": "HPE1000 (Corvette C7)", "gen": "1ST", "years": "2014–2019" },
+  { "name": "H700 (Corvette C8)", "gen": "1ST", "years": "2023–2026" }
+]

@@ -1,0 +1,10 @@
+[
+  { "name": "R1T Pickup", "gen": "1ST", "years": "2021–2024" },
+  { "name": "R1T Pickup", "gen": "2ND", "years": "2025–2026" },
+  { "name": "R1S SUV", "gen": "1ST", "years": "2022–2024" },
+  { "name": "R1S SUV", "gen": "2ND", "years": "2025–2026" },
+  { "name": "EDV", "gen": "1ST", "years": "2021–2026" },
+  { "name": "R2", "gen": "1ST", "years": "2026–2026" },
+  { "name": "R3", "gen": "1ST", "years": "2026–2026" },
+  { "name": "R3X", "gen": "1ST", "years": "2026–2026" }
+]

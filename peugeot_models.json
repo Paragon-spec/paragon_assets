@@ -1,0 +1,16 @@
+[
+  { "name": "205 GTI", "gen": "1ST", "years": "1984–1990" },
+  { "name": "205 Turbo 16", "gen": "1ST", "years": "1984–1986" },
+  { "name": "405 Mi16", "gen": "1ST", "years": "1987–1992" },
+  { "name": "405 T16", "gen": "2ND", "years": "1992–1995" },
+  { "name": "106 GTI", "gen": "1ST", "years": "1996–2003" },
+  { "name": "306 GTI-6", "gen": "1ST", "years": "1996–2001" },
+  { "name": "206 GTI 180", "gen": "1ST", "years": "2003–2006" },
+  { "name": "207 GTI", "gen": "1ST", "years": "2007–2010" },
+  { "name": "RCZ R", "gen": "1ST", "years": "2013–2015" },
+  { "name": "208 GTI", "gen": "1ST", "years": "2012–2015" },
+  { "name": "208 GTI by PS", "gen": "2ND", "years": "2015–2018" },
+  { "name": "308 GTI", "gen": "1ST", "years": "2015–2018" },
+  { "name": "308 GTI 270", "gen": "2ND", "years": "2018–2021" },
+  { "name": "508 Peugeot Sport Engineered", "gen": "1ST", "years": "2021–2026" }
+]

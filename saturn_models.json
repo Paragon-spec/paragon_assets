@@ -1,0 +1,15 @@
+[
+  { "name": "S-Series (SL/SC/SW)", "gen": "1ST", "years": "1991–1995" },
+  { "name": "S-Series (SL/SC/SW)", "gen": "2ND", "years": "1996–1999" },
+  { "name": "S-Series (SL/SC/SW)", "gen": "3RD", "years": "2000–2002" },
+  { "name": "EV1", "gen": "1ST", "years": "1996–1999" },
+  { "name": "L-Series", "gen": "1ST", "years": "2000–2005" },
+  { "name": "VUE", "gen": "1ST", "years": "2002–2007" },
+  { "name": "VUE", "gen": "2ND", "years": "2008–2010" },
+  { "name": "ION", "gen": "1ST", "years": "2003–2007" },
+  { "name": "Relay", "gen": "1ST", "years": "2005–2007" },
+  { "name": "Sky", "gen": "1ST", "years": "2007–2010" },
+  { "name": "Aura", "gen": "1ST", "years": "2007–2010" },
+  { "name": "Outlook", "gen": "1ST", "years": "2007–2010" },
+  { "name": "Astra", "gen": "1ST", "years": "2008–2009" }
+]

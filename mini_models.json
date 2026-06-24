@@ -1,0 +1,20 @@
+[
+  { "name": "Aceman", "gen": "1ST", "years": "2024–2026" },
+  { "name": "Classic Mini", "gen": "1ST", "years": "1959–2000" },
+  { "name": "Clubman", "gen": "1ST", "years": "2007–2014" },
+  { "name": "Clubman", "gen": "2ND", "years": "2015–2024" },
+  { "name": "Convertible", "gen": "1ST", "years": "2004–2008" },
+  { "name": "Convertible", "gen": "2ND", "years": "2009–2015" },
+  { "name": "Convertible", "gen": "3RD", "years": "2016–2024" },
+  { "name": "Convertible", "gen": "4TH", "years": "2024–2026" },
+  { "name": "Countryman", "gen": "1ST", "years": "2010–2016" },
+  { "name": "Countryman", "gen": "2ND", "years": "2017–2024" },
+  { "name": "Countryman", "gen": "3RD", "years": "2024–2026" },
+  { "name": "Coupé", "gen": "1ST", "years": "2011–2015" },
+  { "name": "Hatch (3-Door/5-Door)", "gen": "1ST", "years": "2001–2006" },
+  { "name": "Hatch (3-Door/5-Door)", "gen": "2ND", "years": "2006–2013" },
+  { "name": "Hatch (3-Door/5-Door)", "gen": "3RD", "years": "2014–2024" },
+  { "name": "Hatch (3-Door/5-Door)", "gen": "4TH", "years": "2024–2026" },
+  { "name": "Paceman", "gen": "1ST", "years": "2012–2016" },
+  { "name": "Roadster", "gen": "1ST", "years": "2012–2015" }
+]

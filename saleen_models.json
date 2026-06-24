@@ -1,0 +1,19 @@
+[
+  { "name": "Mustang", "gen": "1ST", "years": "1984–1986" },
+  { "name": "Mustang", "gen": "2ND", "years": "1987–1993" },
+  { "name": "Mustang", "gen": "3RD", "years": "1994–1998" },
+  { "name": "Mustang", "gen": "4TH", "years": "1999–2004" },
+  { "name": "Mustang", "gen": "5TH", "years": "2005–2009" },
+  { "name": "Mustang", "gen": "6TH", "years": "2010–2014" },
+  { "name": "Mustang", "gen": "7TH", "years": "2015–2023" },
+  { "name": "Mustang", "gen": "8TH", "years": "2024–2026" },
+  { "name": "S7", "gen": "1ST", "years": "2000–2004" },
+  { "name": "S7 Twin Turbo", "gen": "2ND", "years": "2005–2009" },
+  { "name": "S5S Raptor", "gen": "1ST", "years": "2008–2008" },
+  { "name": "S1", "gen": "1ST", "years": "2017–2019" },
+  { "name": "F-150", "gen": "1ST", "years": "2004–2008" },
+  { "name": "F-150", "gen": "2ND", "years": "2009–2014" },
+  { "name": "F-150", "gen": "3RD", "years": "2015–2020" },
+  { "name": "F-150", "gen": "4TH", "years": "2021–2026" },
+  { "name": "Sportruck", "gen": "1ST", "years": "1987–1989" }
+]

@@ -1,0 +1,17 @@
+[
+  { "name": "P3", "gen": "1ST", "years": "1948–1949" },
+  { "name": "P4", "gen": "1ST", "years": "1949–1964" },
+  { "name": "P5", "gen": "1ST", "years": "1958–1973" },
+  { "name": "P6", "gen": "1ST", "years": "1963–1977" },
+  { "name": "SD1", "gen": "1ST", "years": "1976–1986" },
+  { "name": "200 Series", "gen": "1ST", "years": "1984–1989" },
+  { "name": "200 Series (R8)", "gen": "2ND", "years": "1989–1995" },
+  { "name": "200 Series (R3)", "gen": "3RD", "years": "1995–1999" },
+  { "name": "25", "gen": "1ST", "years": "1999–2005" },
+  { "name": "400 Series", "gen": "1ST", "years": "1990–1995" },
+  { "name": "400 Series (HH-R)", "gen": "2ND", "years": "1995–1999" },
+  { "name": "45", "gen": "1ST", "years": "1999–2005" },
+  { "name": "600 Series", "gen": "1ST", "years": "1993–1999" },
+  { "name": "800 Series", "gen": "1ST", "years": "1986–1999" },
+  { "name": "75", "gen": "1ST", "years": "1999–2005" }
+]
