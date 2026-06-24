@@ -1,0 +1,19 @@
+[
+  { "name": "Fiat-Abarth 500", "gen": "1ST", "years": "1958–1965" },
+  { "name": "Fiat-Abarth 595", "gen": "2ND", "years": "1963–1971" },
+  { "name": "Fiat-Abarth 695", "gen": "3RD", "years": "1964–1971" },
+  { "name": "Fiat 124 Abarth Rally", "gen": "1ST", "years": "1972–1975" },
+  { "name": "Fiat 131 Abarth", "gen": "1ST", "years": "1976–1980" },
+  { "name": "Autobianchi A112 Abarth", "gen": "1ST", "years": "1971–1986" },
+  { "name": "Fiat Ritmo Abarth 125 TC", "gen": "1ST", "years": "1981–1983" },
+  { "name": "Fiat Ritmo Abarth 130 TC", "gen": "2ND", "years": "1983–1988" },
+  { "name": "Abarth Grande Punto", "gen": "1ST", "years": "2007–2010" },
+  { "name": "Abarth Punto Evo", "gen": "2ND", "years": "2010–2012" },
+  { "name": "Abarth Punto SuperSport", "gen": "3RD", "years": "2012–2014" },
+  { "name": "Abarth 500", "gen": "1ST", "years": "2008–2015" },
+  { "name": "Abarth 595", "gen": "2ND", "years": "2012–2021" },
+  { "name": "Abarth 695", "gen": "3RD", "years": "2010–2024" },
+  { "name": "Abarth 124 Spider", "gen": "1ST", "years": "2016–2020" },
+  { "name": "Abarth 500e", "gen": "4TH", "years": "2023–2026" },
+  { "name": "Abarth 600e", "gen": "1ST", "years": "2024–2026" }
+]

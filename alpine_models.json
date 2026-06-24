@@ -1,0 +1,13 @@
+[
+  { "name": "A106", "gen": "1ST", "years": "1955–1964" },
+  { "name": "A108", "gen": "1ST", "years": "1958–1965" },
+  { "name": "A110 (Original)", "gen": "1ST", "years": "1962–1977" },
+  { "name": "A310 (4-Cylinder)", "gen": "1ST", "years": "1971–1976" },
+  { "name": "A310 (V6)", "gen": "2ND", "years": "1977–1985" },
+  { "name": "GTA (V6 Turbo)", "gen": "1ST", "years": "1985–1991" },
+  { "name": "A610", "gen": "1ST", "years": "1991–1995" },
+  { "name": "A110 (Modern)", "gen": "1ST", "years": "2017–2021" },
+  { "name": "A110 (Modern Update)", "gen": "2ND", "years": "2021–2026" },
+  { "name": "A290", "gen": "1ST", "years": "2024–2026" },
+  { "name": "A390", "gen": "1ST", "years": "2025–2026" }
+]
